@@ -1,0 +1,1 @@
+string value of select "caption from win32_operatingsystem" of wmi starts with "Microsoft Windows 7" or string value of select "caption from win32_operatingsystem" of wmi starts with "Microsoft Windows 10"
